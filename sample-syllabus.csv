@@ -1,0 +1,11 @@
+topic_id,topic_name,percentage
+001,Introduction to Data Structures,100
+002,Arrays and Linked Lists,95
+003,Stacks and Queues,90
+004,Trees and Graphs,85
+005,Sorting Algorithms,80
+006,Searching Algorithms,75
+007,Dynamic Programming,70
+008,Greedy Algorithms,65
+009,Hashing,60
+010,Advanced Topics,55
